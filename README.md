@@ -2,3 +2,7 @@
 
 Profile Link - https://trailblazer.me/id/mseelam9
 
+Superbadges:
+
+Apex Specialist - https://trailhead.salesforce.com/content/learn/superbadges/superbadge_apex
+Process Automation Specialist - https://trailhead.salesforce.com/content/learn/superbadges/superbadge_process_automation
